@@ -1,5 +1,5 @@
 # instabug-task
-
+Login page with a slider
 ## Project setup
 ```
 npm install
